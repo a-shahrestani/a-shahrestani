@@ -4,8 +4,7 @@
 - My main fields of interest are Machine Learning, Deep Learning, NLP, Computer Vision and Data Mining
 - I’m currently learning PyTorch
 
-[![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=goldani.ali&labelColor=313131&color=313131)](mailto:afshinshah77@gmail.com)   
-[![linkedin](https://img.shields.io/badge/-@agoldani-313131?style=flat-square&labelColor=313131&logo=LinkedIn&color=313131)](https://www.linkedin.com/in/afshin-shahrestani/)   
+[![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=afshinshah77&labelColor=313131&color=313131)](mailto:afshinshah77@gmail.com)    
 [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://ashthefallen.github.io/resume.pdf)   
 
 [![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen)](https://github.com/anuraghazra/github-readme-stats)
