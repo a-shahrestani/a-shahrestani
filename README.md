@@ -2,12 +2,14 @@
 
 - I'm a Computer Engineering Student currently studying at Ferdowsi University of Mashhad
 - My main fields of interest are Machine Learning, Deep Learning, NLP, Computer Vision and Data Mining
-- I’m currently learning PyTorch
 
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=afshinshah77&labelColor=313131&color=313131)](mailto:afshinshah77@gmail.com)    
 [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://ashthefallen.github.io/resume.pdf)   
 
 [![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen)](https://github.com/anuraghazra/github-readme-stats)
+
+### Now Playing 🎧
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/z6g5wxscdvb6u1fi0z1m8iuvo)
 <!--
 **AshTheFallen/AshTheFallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
