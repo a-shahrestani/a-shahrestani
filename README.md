@@ -9,7 +9,7 @@
 [![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/z6g5wxscdvb6u1fi0z1m8iuvo)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **AshTheFallen/AshTheFallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
