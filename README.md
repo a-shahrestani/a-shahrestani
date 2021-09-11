@@ -1,4 +1,4 @@
-### Hi there, I'm Afshin 👾
+### Hi there, I'm Afshin <img src='https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-earth-fire.gif' width = 24px alt="hi">
 
 - I'm a Computer Engineering Student currently studying at Ferdowsi University of Mashhad
 - My main fields of interest are Machine Learning, Deep Learning, NLP, Computer Vision and Data Mining
