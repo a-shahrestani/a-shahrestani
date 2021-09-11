@@ -14,7 +14,8 @@
 [<img align="left" alt="FromAsh2Dust | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Afshin-Shahrestani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-</br>
+<br />
+
 [![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Now Playing 🎧
