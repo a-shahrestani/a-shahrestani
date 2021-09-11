@@ -16,6 +16,8 @@
 <br />
 
 [![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashthefallen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br /><br />
 
@@ -26,7 +28,7 @@
 [<img align="left" alt="afshin-shahrstani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 [website]: https://ashthefallen.github.io
 [twitter]: https://twitter.com/FromAsh2Dust
