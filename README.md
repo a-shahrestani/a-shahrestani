@@ -1,6 +1,7 @@
 ### Hi there, I'm Afshin <img src='https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-earth-fire.gif' width = 24px alt="hi">
 
-<img align="left" src="https://user-images.githubusercontent.com/39590208/132950228-6cba1100-33db-45ec-911b-91c39800ba28.png" height="240px">
+<!-- Taken from https://www.reddit.com/r/Doom/comments/jirzpg/i_made_doom_guy_pixel_art/ -->
+<img align="left" src="https://user-images.githubusercontent.com/39590208/132950228-6cba1100-33db-45ec-911b-91c39800ba28.png" height="220px">
 
 
 ### About me: 
