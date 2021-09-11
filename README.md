@@ -1,5 +1,11 @@
-### Hi there, I'm Afshin <img src = 'https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-laptop-fire.gif'>
+### Hi there, I'm Afshin 👾
 
+- I'm a Computer Engineering Student currently studying at Ferdowsi University of Mashhad
+- My main fields of interest are Machine Learning, Deep Learning, NLP, Computer Vision and Data Mining
+- I’m currently learning PyTorch
+
+
+[![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AshTheFallen/AshTheFallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
