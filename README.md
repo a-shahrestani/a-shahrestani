@@ -27,6 +27,8 @@
 [<img align="left" alt="FromAsh2Dust | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="afshin-shahrstani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br /><br />
+
 ### Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&cover_image=False&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&redirect=true)
 
