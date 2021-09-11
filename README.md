@@ -1,5 +1,5 @@
 ### Hi there, I'm Afshin <img src='https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-earth-fire.gif' width = 24px alt="hi">
-<img align="left" src="https://user-images.githubusercontent.com/39590208/132950228-6cba1100-33db-45ec-911b-91c39800ba28.png" height="120px">
+<img align="left" src="https://user-images.githubusercontent.com/39590208/132950228-6cba1100-33db-45ec-911b-91c39800ba28.png" height="240px">
 ### About me: 
 <!-- <img align="left" src="https://https://i.redd.it/mds31m44jjv51.png" height="120px"> -->
 - 💻 I'm a Computer Engineering Student currently studying at Ferdowsi University of Mashhad
