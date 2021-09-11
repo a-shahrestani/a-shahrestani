@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Afshin <img src = 'https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-earth-fire.gif'>
 
 <!--
 **AshTheFallen/AshTheFallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
