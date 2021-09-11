@@ -1,4 +1,6 @@
 ### Hi there, I'm Afshin <img src='https://meritt-gifs.s3.us-west-1.amazonaws.com/giphy/giphy-earth-fire.gif' width = 24px alt="hi">
+
+<div>
 <img align="left" src="https://user-images.githubusercontent.com/39590208/132950228-6cba1100-33db-45ec-911b-91c39800ba28.png" height="240px">
 
 <br />
@@ -14,7 +16,7 @@
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=afshinshah77&labelColor=313131&color=313131)](mailto:afshinshah77@gmail.com)    
 [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://ashthefallen.github.io/resume.pdf)  
 
-
+</div>
 <br />
 
 [![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
