@@ -33,7 +33,7 @@
 <br /><br />
 
 ### Now Playing 🎧
-[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=z6g5wxscdvb6u1fi0z1m8iuvo&unique={true|1|on|yes})]
+![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=z6g5wxscdvb6u1fi0z1m8iuvo&unique={true|1|on|yes})
 
 [website]: https://a-shahrestani.github.io
 [twitter]: https://twitter.com/FromAsh2Dust
