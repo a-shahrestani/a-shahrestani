@@ -18,15 +18,15 @@
 
 <br />
 
-[![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashthefallen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashthefallen&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-shahrestani&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-shahrestani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br /><br />
 
 ### Connect with me: 
 <!-- Taken from https://raw.githubusercontent.com/alfreddagenais/alfreddagenais/master/README.md -->
-[<img align="left" alt="ashthefallen.githib.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="a-shahrestani.githib.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FromAsh2Dust | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="afshin-shahrstani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -35,6 +35,6 @@
 ### Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&cover_image=False&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=z6g5wxscdvb6u1fi0z1m8iuvo&redirect=true)
 
-[website]: https://ashthefallen.github.io
+[website]: https://a-shahrestani.github.io
 [twitter]: https://twitter.com/FromAsh2Dust
 [linkedin]: https://linkedin.com/in/Afshin-Shahrestani
