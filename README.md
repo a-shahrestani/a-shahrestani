@@ -8,7 +8,8 @@
 <!-- <img align="left" src="https://https://i.redd.it/mds31m44jjv51.png" height="120px"> -->
 - 💻 I have a Bachelor of Computer Engineering degree from Ferdowsi University of Mashhad
 - 👓 My main fields of interest are Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision and Data Mining
-- 🌱 I'm currently learning Deep Reinforcement Learning using Keras and Tensorflow
+- 👓 I'm currently working as a Machine Learning Engineer in a FinTech company
+- 🌱 My work includes designing RL environments and Deep Learning models, analysing and tuning them
 - 👾 I'm a moderately huge gamer currently protecting humanity in Destiny 2
 - 💪 Kinda obssesed with working out at the moment
  
