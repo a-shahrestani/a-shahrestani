@@ -14,17 +14,6 @@
 - My main fields of interest are Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision and Data Mining
 
 
- 
-<!-- Taken from https://github.com/Galiold/Galiold/blob/main/README.md  -->
-[![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=afshinshah77&labelColor=313131&color=313131)](mailto:afshinshah77@gmail.com)    
-[![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://ashthefallen.github.io/resume.pdf)  
-
-<br />
-
-[![Afshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-shahrestani&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Afshin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-shahrestani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <br /><br />
 
 ### Connect with me: 
