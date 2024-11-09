@@ -6,10 +6,8 @@
 
 ### About me: 
 <!-- <img align="left" src="https://https://i.redd.it/mds31m44jjv51.png" height="120px"> -->
-- I am currently finishing my Masters in Applied Science from the University of British Columbia
-- My research has been focused on infrastructure management in transportation engineering using deep-learning models
-- I have developed pipelines for pavement crack and road object image generation, detection, and classification
-- I have also worked on 3D point cloud data processing, and semantic object detection in them using KPConv and attention
+- I recently finished my Masters in Applied Science from the University of British Columbia
+- My research was focused on infrastructure management in transportation engineering using deep-learning models
 - I have a Bachelor of Computer Engineering degree from Ferdowsi University of Mashhad
 - My main fields of interest are Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision and Data Mining
 
