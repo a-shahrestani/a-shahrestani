@@ -11,11 +11,3 @@
 - I have a Bachelor of Computer Engineering degree from Ferdowsi University of Mashhad
 - My main fields of interest are Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision and Data Mining
 
-
-<br /><br />
-
-### Connect with me: 
-<!-- Taken from https://raw.githubusercontent.com/alfreddagenais/alfreddagenais/master/README.md -->
-[<img align="left" alt="a-shahrestani.githib.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="FromAsh2Dust | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="afshin-shahrstani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
