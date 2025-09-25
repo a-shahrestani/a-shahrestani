@@ -6,8 +6,6 @@
 
 ### About me: 
 <!-- <img align="left" src="https://https://i.redd.it/mds31m44jjv51.png" height="120px"> -->
-- I recently finished my Masters in Applied Science from the University of British Columbia
-- My research was focused on infrastructure management in transportation engineering using deep-learning models
-- I have a Bachelor of Computer Engineering degree from Ferdowsi University of Mashhad
-- My main fields of interest are Machine Learning, Deep Learning, Reinforcement Learning, NLP, Computer Vision and Data Mining
-
+- I have more than 3 years of experinence as a Machine Learning Engineer
+- I finished my Masters in Applied Science from the University of British Columbia
+- My main areas of focus have been object detectrion/segmentation in computer vision and since last year MLOps!
